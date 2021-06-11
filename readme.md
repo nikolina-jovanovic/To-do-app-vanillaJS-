@@ -1,6 +1,6 @@
 *Todo app using vanilla JavaScript,html and css*
 
-As someone who took the course at Pirple (Keeping Up With the Javascripts: ES6),this was my first project.
+While taking the course at Pirple (Keeping Up With the Javascripts: ES6),this was my first project.
 
 Here are the requirements:
 
