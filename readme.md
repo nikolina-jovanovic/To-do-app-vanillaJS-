@@ -2,6 +2,24 @@
 
 While taking the course at Pirple (Keeping Up With the Javascripts: ES6),this was my first project.
 
+![todo-vanillajs1](https://user-images.githubusercontent.com/85742865/133167010-e8be9b16-a47e-4469-8869-96d7b4c19ca3.png)
+
+Sign up form:
+![todo-vanillajs2](https://user-images.githubusercontent.com/85742865/133167015-ae59e198-64dc-46dd-9039-92df10f94c1f.png)
+
+Homepage:
+![todo-vanillajs3](https://user-images.githubusercontent.com/85742865/133167016-b7e8aa47-5be5-441d-aefb-a73a41f54c5a.png)
+
+Creating a list:
+![todo-vanillajs4](https://user-images.githubusercontent.com/85742865/133167018-96821d54-83f9-41fe-9e01-cca3c145e835.png)
+
+Saved list:
+![todo-vanillajs6](https://user-images.githubusercontent.com/85742865/133167021-51dd2f59-f207-4fba-a50f-b198ee0393ee.png)
+
+Account settings (editing info):
+![todo-vanillajs5](https://user-images.githubusercontent.com/85742865/133167019-34b478c4-49fb-4ba3-8b22-4e37262520ee.png)
+
+
 Here are the requirements:
 
 Project #1
